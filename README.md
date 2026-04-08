@@ -43,8 +43,8 @@ Aplicación web para gestión de tareas utilizando JavaScript moderno, eventos, 
 ---
 
 ### 🌐 Aplicación Web Node.js + Express
-Proyecto backend desarrollado con Node.js y Express.  
-🔗 https://github.com/PauliCodesB612/Proyecto_AplicacionWEB-Node.js-Express
+Proyecto backend desarrollado con Node.js y Express como proyecto integrador.  
+🔗 https://github.com/PauliCodesB612/Proyecto_AplicacionWEB-Node.js-Express_Parte3
 
 ---
 
