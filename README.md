@@ -2,7 +2,7 @@
 
 ## 💼 Perfil profesional
 
-Ingeniera Comercial y Desarrolladora Full Stack JavaScript, orientada a la creación de soluciones tecnológicas con impacto en negocio. Me interesa desarrollar aplicaciones web funcionales y seguir creciendo en el área de software.
+Ingeniera Comercial y Desarrolladora Full Stack JavaScript Trainee, orientada a la creación de soluciones tecnológicas con impacto en negocio. Me interesa desarrollar aplicaciones web funcionales y seguir creciendo en el área de software.
 
 ---
 
