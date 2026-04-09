@@ -1,3 +1,10 @@
+<!-- Banner principal -->
+<div align="center">
+  <img src="https://github.com/PauliCodesB612/PauliCodesB612/blob/main/banner.png?raw=true" alt="Paulina Villegas - Full Stack JavaScript Developer" width="100%"/>
+</div>
+
+---
+
 # 👩‍💻 Paulina Villegas
 
 ## 💼 Perfil profesional
